@@ -1,0 +1,54 @@
+@media (max-width: 321px) {
+  .img {
+    height: 818px;
+    padding: 16px 8px;
+  }
+
+  section {
+    width: 304px;
+    height: 786px;
+    padding: 16px 8px;
+    flex-direction: column;
+    row-gap: 20px;
+  }
+
+  h1 {
+    margin-bottom: 80px;
+  }
+
+  .inputsection {
+    flex-direction: column;
+    row-gap: 24px;
+  }
+
+  #message {
+    margin-bottom: 24px;
+    width: 288px;
+  }
+
+  button {
+    width: 288px;
+    height: 64px;
+  }
+
+  #name,
+  #email {
+    width: 288px;
+  }
+
+  button {
+  }
+
+  address {
+    gap: 24px;
+  }
+
+  .address {
+    column-gap: 42px;
+  }
+
+  iframe {
+    width: 288px;
+    height: 150px;
+  }
+}
